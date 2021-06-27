@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQoIztecet1Xvx8/co8VRkwNc35LGgmCopbu5VuSG3lREHDcVVVk5bGwEtDQL1djId61KCCYhYkqv0bmModMBQ==",
+  "success": true,
+  "projectFilePath": "/home/porus/2d platformer/2d platformer.csproj",
+  "expectedPackageFiles": [
+    "/home/porus/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/porus/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.0/microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

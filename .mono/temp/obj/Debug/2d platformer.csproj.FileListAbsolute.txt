@@ -1,0 +1,8 @@
+/home/porus/2d platformer/.mono/temp/bin/Debug/2d platformer.dll
+/home/porus/2d platformer/.mono/temp/bin/Debug/2d platformer.pdb
+/home/porus/2d platformer/.mono/temp/obj/Debug/2d platformer.csproj.AssemblyReference.cache
+/home/porus/2d platformer/.mono/temp/obj/Debug/2d platformer.AssemblyInfoInputs.cache
+/home/porus/2d platformer/.mono/temp/obj/Debug/2d platformer.AssemblyInfo.cs
+/home/porus/2d platformer/.mono/temp/obj/Debug/2d platformer.csproj.CoreCompileInputs.cache
+/home/porus/2d platformer/.mono/temp/obj/Debug/2d platformer.dll
+/home/porus/2d platformer/.mono/temp/obj/Debug/2d platformer.pdb
